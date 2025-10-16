@@ -15,3 +15,7 @@ int main (){
         printf("%d\n",(X*4)+Y);
     }
 }
+
+
+
+//HELLO I'M RAHAT
